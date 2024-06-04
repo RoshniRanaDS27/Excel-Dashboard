@@ -7,6 +7,8 @@
 ![Geographical Insight Dashboard-Screenshot 04](https://github.com/RoshniRanaDS/Excel-Dashboard/assets/161755928/c7d4df75-8a72-466e-8109-e7886b150cf5)
 #
 ![Logistics Control Dashboard-Screenshot 05](https://github.com/RoshniRanaDS/Excel-Dashboard/assets/161755928/058e1f2d-79c6-4cf8-ad27-7af1d3e34897)
+#
+![Employee_Managers Performance-Screenshot 06](https://github.com/RoshniRanaDS/Excel-Dashboard/assets/161755928/ff9699ec-9434-4d22-a8f2-8d563c92f0af)
 
 
 
