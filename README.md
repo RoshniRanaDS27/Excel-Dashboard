@@ -1,5 +1,5 @@
 # U.S.A Super Store Sales Data Analysis Dasboard 
-### Zoom out the provided Screenshots of dash board to analize Trends related to sales, profit and co relatonships
+### Zoom out the provided Screenshots of the dash board to analize Trends related to sales, profit and co-relatonships
 
 # Summary Dashboard screen 
 ![Summary Dasboard-Screenshot 01](https://github.com/RoshniRanaDS/Excel-Dashboard/assets/161755928/9976cfae-a3c1-456f-8aed-58575f70f5f8)
