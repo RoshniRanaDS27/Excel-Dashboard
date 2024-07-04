@@ -1,4 +1,5 @@
-# U.S.A Super Store Sales Data Analysis Dasboard 
+# U.S.A Super Store Sales Data Analysis Dasboard ![image](https://github.com/RoshniRanaDS/Excel-Dashboard/assets/161755928/22824f74-e0e5-42a1-8c49-15ce7631b3de)
+
 ### Click on the provided link for Screenshots of the dash board to analize Trends related to sales, profit and co-relatonships
 
 # Summary Dashboard screen   
