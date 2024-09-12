@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/893b22ef-925d-4a58-a140-bc319d1b123f
 
 ### Click on the provided link for Screenshots of the dash board to analize Trends related to sales, profit and co-relatonships
 
-# Summary Dashboard screen   
+# Summary Dashboard screen    
 * [Summary Dasboard-Screenshot](https://github.com/RoshniRanaDS/Excel-Dashboard/blob/main/Summary%20Dasboard-Screenshot%2001.png)
     
 ![Summary Dasboard-Screenshot 01](https://github.com/RoshniRanaDS/Excel-Dashboard/assets/161755928/9976cfae-a3c1-456f-8aed-58575f70f5f8)
